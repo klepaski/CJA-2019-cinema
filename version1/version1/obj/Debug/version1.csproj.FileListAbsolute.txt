@@ -1,0 +1,194 @@
+E:\Database\CourseProject\version1\version1\obj\Debug\MainWindow.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\App.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\version1_MarkupCompile.cache
+E:\Database\CourseProject\version1\version1\obj\Debug\version1_MarkupCompile.lref
+E:\Database\CourseProject\version1\version1\bin\Debug\version1.exe.config
+E:\Database\CourseProject\version1\version1\bin\Debug\version1.exe
+E:\Database\CourseProject\version1\version1\bin\Debug\version1.pdb
+E:\Database\CourseProject\version1\version1\obj\Debug\MainWindow.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.g.resources
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.Properties.Resources.resources
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.csproj.GenerateResource.cache
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.csproj.CoreCompileInputs.cache
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.exe
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.pdb
+E:\Database\CourseProject\version1\version1\bin\Debug\Configuration.dll
+E:\Database\CourseProject\version1\version1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Database\CourseProject\version1\version1\bin\Debug\System.Security.AccessControl.dll
+E:\Database\CourseProject\version1\version1\bin\Debug\System.Security.Permissions.dll
+E:\Database\CourseProject\version1\version1\bin\Debug\System.Security.Principal.Windows.dll
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.csproj.CopyComplete
+E:\Database\CourseProject\version1\version1\obj\Debug\Registration.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\Registration.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\UserWindow.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\UserWindow.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\Schedule.g.cs
+E:\Database\CourseProject\version1\version1\bin\Debug\MaterialDesignColors.dll
+E:\Database\CourseProject\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Database\CourseProject\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Database\CourseProject\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Database\CourseProject\version1\version1\obj\Debug\Schedule.baml
+E:\Database\CourseProject\version1\version1\bin\Debug\MaterialDesignColors.pdb
+E:\Database\CourseProject\version1\version1\obj\Debug\UserPage.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\UserPage.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\UserOrders.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\UserOrders.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\version1.csprojAssemblyReference.cache
+E:\Database\CourseProject\version1\version1\obj\Debug\AdminWindow.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\AdminWindow.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\EditRepertoire.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\EditRepertoire.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\EditSchedule.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\EditSchedule.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\AddSchedule.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\AddSchedule.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\AddScheduleOk.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\AddScheduleOk.baml
+E:\Database\CourseProject\version1\version1\obj\Debug\createSpectacle.g.cs
+E:\Database\CourseProject\version1\version1\obj\Debug\createSpectacle.baml
+D:\3\БД\курсач\version1\version1\bin\Debug\version1.exe.config
+D:\3\БД\курсач\version1\version1\bin\Debug\version1.exe
+D:\3\БД\курсач\version1\version1\bin\Debug\version1.pdb
+D:\3\БД\курсач\version1\version1\bin\Debug\Configuration.dll
+D:\3\БД\курсач\version1\version1\bin\Debug\MaterialDesignColors.dll
+D:\3\БД\курсач\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\3\БД\курсач\version1\version1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\3\БД\курсач\version1\version1\bin\Debug\System.Security.AccessControl.dll
+D:\3\БД\курсач\version1\version1\bin\Debug\System.Security.Permissions.dll
+D:\3\БД\курсач\version1\version1\bin\Debug\System.Security.Principal.Windows.dll
+D:\3\БД\курсач\version1\version1\bin\Debug\MaterialDesignColors.pdb
+D:\3\БД\курсач\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\3\БД\курсач\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.csprojAssemblyReference.cache
+D:\3\БД\курсач\version1\version1\obj\Debug\AddSchedule.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\AddScheduleOk.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\AdminWindow.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\createSpectacle.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\EditRepertoire.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\EditSchedule.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\MainWindow.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\Registration.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\Schedule.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\UserOrders.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\UserPage.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\UserWindow.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\App.g.cs
+D:\3\БД\курсач\version1\version1\obj\Debug\version1_MarkupCompile.cache
+D:\3\БД\курсач\version1\version1\obj\Debug\version1_MarkupCompile.lref
+D:\3\БД\курсач\version1\version1\obj\Debug\AddSchedule.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\AddScheduleOk.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\AdminWindow.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\createSpectacle.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\EditRepertoire.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\EditSchedule.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\MainWindow.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\Registration.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\Schedule.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\UserOrders.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\UserPage.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\UserWindow.baml
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.g.resources
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.Properties.Resources.resources
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.csproj.GenerateResource.cache
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.csproj.CoreCompileInputs.cache
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.csproj.CopyComplete
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.exe
+D:\3\БД\курсач\version1\version1\obj\Debug\version1.pdb
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\Schedule.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\App.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1_MarkupCompile.cache
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1_MarkupCompile.lref
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.exe
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.pdb
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\version1.exe.config
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\version1.exe
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\version1.pdb
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\Configuration.dll
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\MaterialDesignColors.dll
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\System.Security.AccessControl.dll
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\System.Security.Permissions.dll
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\System.Security.Principal.Windows.dll
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\MaterialDesignColors.pdb
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\3\БД\курсач - копия\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\Schedule.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.g.resources
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.Properties.Resources.resources
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.csproj.GenerateResource.cache
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.csproj.CoreCompileInputs.cache
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.csproj.CopyComplete
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\App.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\MainWindow.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\Registration.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\MainWindow.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\Registration.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\AddSchedule.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\AddScheduleOk.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\AdminWindow.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\createSpectacle.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\EditRepertoire.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\EditSchedule.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\UserOrders.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\UserPage.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\UserWindow.g.cs
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\AddSchedule.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\AddScheduleOk.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\AdminWindow.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\createSpectacle.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\EditRepertoire.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\EditSchedule.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\UserOrders.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\UserPage.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\UserWindow.baml
+D:\3\БД\курсач - копия\version1\version1\obj\Debug\version1.csprojAssemblyReference.cache
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\AddSchedule.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\AddScheduleOk.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\AdminWindow.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\createFilm.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\EditFilms.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\EditSchedule.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\MainWindow.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\Registration.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\Schedule.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\UserOrders.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\UserPage.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\UserWindow.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\App.g.cs
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1_MarkupCompile.cache
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1_MarkupCompile.lref
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.exe
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.pdb
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\version1.exe.config
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\version1.exe
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\version1.pdb
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\Configuration.dll
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\MaterialDesignColors.dll
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\System.Security.AccessControl.dll
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\System.Security.Permissions.dll
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\System.Security.Principal.Windows.dll
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\MaterialDesignColors.pdb
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\App.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\AddSchedule.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\AddScheduleOk.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\AdminWindow.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\createFilm.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\EditFilms.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\EditSchedule.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\MainWindow.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\Registration.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\Schedule.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\UserOrders.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\UserPage.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\UserWindow.baml
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.g.resources
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.Properties.Resources.resources
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.csproj.GenerateResource.cache
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.csproj.CoreCompileInputs.cache
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.csproj.CopyComplete
+D:\3\БД\курсач - копия\НУР СУЛТАН\version1\version1\obj\Debug\version1.csprojAssemblyReference.cache

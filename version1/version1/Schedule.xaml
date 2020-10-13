@@ -1,0 +1,58 @@
+﻿<Window x:Class="version1.Schedule"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:version1"
+      mc:Ignorable="d" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Schedule" Height="670.769" Width="1152.496" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Image/Стулья.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <TextBlock Text="Nur-Sultan" x:Name="Library" Margin="0,10,128,569"  Height="64" TextAlignment="Center" Background="DarkRed" Foreground="White" FontStyle="Italic" FontSize="42"/>
+        <Button x:Name="btnClose" Height="Auto" Width="113" HorizontalAlignment="Right" Click="back_Click" Margin="0,10,10,569">
+            <materialDesign:PackIcon Kind="ArrowLeft" Height="40" Width="86" VerticalAlignment="Center"/>
+        </Button>
+        
+        <DataGrid x:Name="x"  CanUserReorderColumns="False" CanUserResizeColumns="False" Margin="344,101,25,27"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" AutoGenerateColumns="False"  IsReadOnly="True"  >
+            <DataGrid.Columns  >
+                <DataGridTextColumn Binding="{Binding id_schedule}" Header="ID" Visibility="Collapsed"  />
+                <DataGridTextColumn Binding="{Binding datetime}" Header="Дата" Width="220" FontSize="16" FontWeight="Bold"  />
+                <DataGridTextColumn Binding="{Binding time}" Header="Время" Width="120" FontSize="16" FontWeight="Bold" />
+                <DataGridTextColumn Binding="{Binding category}" Header="Категория" Width="120" FontSize="16" FontStyle="Italic"  />
+                <DataGridTextColumn Binding="{Binding title}" Header="Название " Width="160" FontSize="16" FontStyle="Italic" />
+                <DataGridTextColumn Binding="{Binding countTicket}" Header="Кол-во билетов" Width="140" FontSize="16" FontStyle="Italic"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <StackPanel VerticalAlignment="Center" Margin="10,134,807,420" Height="89">
+            <ComboBox x:Name="category" materialDesign:HintAssist.Hint="КАТЕГОРИЯ" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="0, 0" FontSize="14" Foreground="White">
+                <ComboBoxItem Background="Black" Content="Триллер"/>
+                <ComboBoxItem Background="Black" Content="Мелодрама"/>
+                <ComboBoxItem Background="Black" Content="Комедия"/>
+            </ComboBox>
+            
+            <DatePicker x:Name="calendar" materialDesign:HintAssist.Hint="ДАТА ФИЛЬМА" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" Margin="0, 0" FontSize="14" Foreground="White"/>
+        </StackPanel>
+
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="62,249,0,0" VerticalAlignment="Top" Width="207" Height="48" 
+                Background="Black" Opacity="0.6" Foreground="White" FontSize="18" Click="poiskFilm_Click" />
+
+
+        <StackPanel VerticalAlignment="Center" Margin="10,406,807,178" Height="59">
+            <TextBox x:Name = "countOrder" Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                     materialDesign:HintAssist.Hint ="КОЛИЧЕСТВО БИЛЕТОВ" Margin="0, 0" FontSize="14" Foreground="White"/>
+
+        </StackPanel>
+
+        <Button Content="Заказать билет" HorizontalAlignment="Left" Margin="62,520,0,0" VerticalAlignment="Top" Width="207" Height="48" 
+                Background="Black" Opacity="0.6" Foreground="White" FontSize="18" Click="orderTicket_Click" />
+
+    </Grid>
+</Window>

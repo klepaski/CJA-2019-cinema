@@ -1,0 +1,47 @@
+﻿<Window x:Class="version1.createFilm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:version1"
+      mc:Ignorable="d" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="createFilm"  Height="437.594" Width="579" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Foreground" Value="#FF2B587A"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+    </Window.Resources>
+    <Grid  Background="DarkSalmon">
+
+        <StackPanel VerticalAlignment="Center" Margin="10,-2,10,10" Height="364">
+            <TextBox x:Name="Name" MaxLength="20" materialDesign:HintAssist.Hint="НАЗВАНИЕ" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="0,0" FontSize="14" Foreground="White"/>
+            <ComboBox x:Name="category" materialDesign:HintAssist.Hint="КАТЕГОРИЯ" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="0, 0" FontSize="14" Foreground="White">
+                <ComboBoxItem Background="Salmon" Content="Триллер"/>
+                <ComboBoxItem Background="Salmon" Content="Мелодрама"/>
+                <ComboBoxItem Background="Salmon" Content="Комедия"/>
+            </ComboBox>
+            <ComboBox x:Name="age" materialDesign:HintAssist.Hint="ДОПУСТИМЫЙ ВОЗРАСТ" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="0, 0" FontSize="14" Foreground="White">
+                <ComboBoxItem Background="Salmon" Content="0"/>
+                <ComboBoxItem Background="Salmon" Content="6"/>
+                <ComboBoxItem Background="Salmon" Content="12"/>
+                <ComboBoxItem Background="Salmon" Content="16"/>
+                <ComboBoxItem Background="Salmon" Content="18"/>
+            </ComboBox>
+            <DatePicker x:Name="calendar" materialDesign:HintAssist.Hint="ДАТА" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" Margin="0, 0" FontSize="14" Foreground="White"/>
+            <TextBox x:Name="writer" materialDesign:HintAssist.Hint="СЦЕНАРИСТ" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="0, 0" FontSize="14" Foreground="White"/>
+            <TextBox x:Name="directors" materialDesign:HintAssist.Hint="РЕЖИСЕРЫ" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="0, 0" FontSize="14" Foreground="White"/>
+            <TextBox x:Name="description" materialDesign:HintAssist.Hint="ОПИСАНИЕ" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="0, 0" FontSize="14" Foreground="White"/>
+
+        </StackPanel>
+
+
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="171,350,0,0" VerticalAlignment="Top" Width="235" Height="48" 
+                Background="Black" Opacity="0.6" Foreground="White" FontSize="18" Click="Button_Click" />
+
+
+    </Grid>
+</Window>
+

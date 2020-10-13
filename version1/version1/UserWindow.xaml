@@ -1,0 +1,50 @@
+﻿<Window x:Class="version1.UserWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:version1"
+      mc:Ignorable="d"
+      Title="UserWindow" Height="670.769" Width="1152.496" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Image/Закат.jpg"/>
+        </Grid.Background>
+        <Menu x:Name="Menu1"  HorizontalAlignment="Stretch" VerticalAlignment="Top"  Grid.Column="0" Grid.Row="0" Height="74" Background="DarkRed">
+
+            <MenuItem Header="" Height="81" Width="116" />
+            <TextBlock Text="Nur-Sultan" x:Name="Library" Margin="0,0,0,0"  Height="62" Width="553" TextAlignment="Center" Foreground="White" FontStyle="Italic" FontSize="42"/>
+            <MenuItem x:Name="usersMenuItem"  Height="70" Width="299" Foreground="White" FontSize="16" FontStyle="Italic" >
+
+                <MenuItem.Background>
+                    <ImageBrush ImageSource="Image/guest.png" Stretch="Uniform" AlignmentX="Left"/>
+                </MenuItem.Background>
+                <MenuItem x:Name="deleteUser" Header="Удалить профиль" Background="DarkRed" Click="deleteUser_Click" Margin="0,0,-10,0" Height="28"/>
+                <MenuItem x:Name="exitUser" Header="Выход" Background="DarkRed" Click="exitUser_Click" Height="28"/>
+            </MenuItem>
+        </Menu>
+
+
+        <Menu x:Name="Menu2" VerticalAlignment="Top" Height="52" Margin="0,74,0,0" Foreground="White" Cursor="Hand" FontStyle="Italic" FontSize="21">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="DarkRed" Offset="0"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem x:Name="myprofile" Header="Изменить профиль" Click="profile_Click"/>
+            <MenuItem x:Name="films" Header="Фильмография" Click="films_Click" />
+            <MenuItem x:Name="usersoders" Header="Мои заказы" Click="usersorders_Click" />
+            <MenuItem x:Name="schedule" Header="Расписание" Click="schedule_Click" />
+
+        </Menu>
+
+
+
+        <TextBox x:Name="listFilm" Margin="191,168,191,62" IsReadOnly="True" ScrollViewer.VerticalScrollBarVisibility="Auto"   TextWrapping="Wrap" FontFamily="Times New Roman" 
+                 FontSize="18" Foreground="White" Background="#FF3A1313" FontStyle="Italic" />
+        <TextBlock x:Name="UserNow" Margin="191,131,191,450" TextWrapping="Wrap" FontFamily="Times New Roman" FontSize="22" Foreground="Black" FontStyle="Italic" 
+                   FontWeight="Bold" RenderTransformOrigin="0.502,0.475" />
+    </Grid>
+</Window>
